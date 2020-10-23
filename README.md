@@ -4,10 +4,10 @@
 
 ### Sub-rubrik
 
-** lorem ipsum
+**lorem ipsum**
 
-* lorem ipsum
+*lorem ipsum*
 
 lorem ipsum
 
-En [länk](www.google.com)
+En [länk](http://www.google.com)
