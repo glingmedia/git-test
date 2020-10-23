@@ -4,7 +4,9 @@
 
 ### Sub-rubrik
 
-**lorem ipsum
+** lorem ipsum
+
+* lorem ipsum
 
 lorem ipsum
 
