@@ -8,6 +8,6 @@
 
 *lorem ipsum*
 
-lorem ipsum
+This is called Markdown language
 
-En [länk](http://www.google.com)
+A [link](http://www.google.com)
